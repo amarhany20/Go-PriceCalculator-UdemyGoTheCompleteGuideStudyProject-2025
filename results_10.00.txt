@@ -1,0 +1,1 @@
+{"TaxRate":0.1,"InputPrices":[],"TaxIncludedPrices":{},"IOManager":{"InputFilePath":"results.txt","OutputFilePath":"results_10.00.txt"}}
